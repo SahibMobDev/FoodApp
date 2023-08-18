@@ -6,4 +6,5 @@
     <string name="recipes">Recipes</string>
     <string name="favorite_recipes_fragment">Favorite</string>
     <string name="food_joke_fragment">Joke</string>
+    <string name="content_desc_for_floating_button">Floating button</string>
 </resources>
