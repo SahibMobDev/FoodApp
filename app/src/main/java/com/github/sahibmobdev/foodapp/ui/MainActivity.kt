@@ -1,4 +1,4 @@
-package com.github.sahibmobdev.foodapp
+package com.github.sahibmobdev.foodapp.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -7,6 +7,7 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
+import com.github.sahibmobdev.foodapp.R
 import com.github.sahibmobdev.foodapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {

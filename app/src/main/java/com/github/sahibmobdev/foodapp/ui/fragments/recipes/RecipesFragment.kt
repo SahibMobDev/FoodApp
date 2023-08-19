@@ -1,4 +1,4 @@
-package com.github.sahibmobdev.foodapp
+package com.github.sahibmobdev.foodapp.ui.fragments.recipes
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
