@@ -1,7 +1,7 @@
 package com.github.sahibmobdev.foodapp.di
 
-import com.github.sahibmobdev.foodapp.Constants.BASE_URL
-import com.github.sahibmobdev.foodapp.FoodRecipesApi
+import com.github.sahibmobdev.foodapp.util.Constants.BASE_URL
+import com.github.sahibmobdev.foodapp.data.network.FoodRecipesApi
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

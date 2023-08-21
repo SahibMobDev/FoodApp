@@ -1,5 +1,6 @@
-package com.github.sahibmobdev.foodapp
+package com.github.sahibmobdev.foodapp.data
 
+import com.github.sahibmobdev.foodapp.data.network.FoodRecipesApi
 import com.github.sahibmobdev.foodapp.models.FoodRecipe
 import retrofit2.Response
 import javax.inject.Inject

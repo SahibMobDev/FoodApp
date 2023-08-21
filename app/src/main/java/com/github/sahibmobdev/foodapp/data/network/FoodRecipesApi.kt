@@ -1,4 +1,4 @@
-package com.github.sahibmobdev.foodapp
+package com.github.sahibmobdev.foodapp.data.network
 
 import com.github.sahibmobdev.foodapp.models.FoodRecipe
 import retrofit2.Response
