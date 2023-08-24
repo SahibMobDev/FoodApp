@@ -1,4 +1,4 @@
-package com.github.sahibmobdev.foodapp
+package com.github.sahibmobdev.foodapp.viewmodels
 
 import android.app.Application
 import android.content.Context
