@@ -1,4 +1,4 @@
-package com.github.sahibmobdev.foodapp
+package com.github.sahibmobdev.foodapp.database
 
 import androidx.room.Dao
 import androidx.room.Insert

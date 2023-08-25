@@ -1,4 +1,4 @@
-package com.github.sahibmobdev.foodapp
+package com.github.sahibmobdev.foodapp.database
 
 import androidx.room.TypeConverter
 import com.github.sahibmobdev.foodapp.models.FoodRecipe
